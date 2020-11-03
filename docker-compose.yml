@@ -1,0 +1,55 @@
+
+version: '3'
+services:
+    postgres:
+        image: postgres:9.6
+        environment:
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+            - PGDATA=/var/lib/postgresql/data
+        ports:
+          - "5432:5432"
+        volumes:
+          - ./data/airflow/postgres:/var/lib/postgresql/data
+    postgres-dev:
+        image: postgres:local
+        environment:
+            - POSTGRES_USER=admin
+            - POSTGRES_PASSWORD=abcxyz
+            - POSTGRES_DB=postgres
+            - PGDATA=/var/lib/postgresql/data
+        ports:
+          - "5433:5432"
+        volumes:
+          - ./data/dev/postgres:/var/lib/postgresql/data
+    webserver:
+        image: puckel/docker-airflow:1.10.9
+        restart: always
+        deploy:
+          resources:
+            limits:
+              memory: 8000M
+        depends_on:
+            - postgres
+        env_file:
+            - .env
+        environment:
+            - LOAD_EX=n
+            - EXECUTOR=Local
+            - AIRFLOW_CONN_POSTGRES_DEV=postgresql+psycopg2://admin:abcxyz@postgres-dev:5432/postgres
+        volumes:
+            - ./dags:/usr/local/airflow/dags
+            - ./test:/usr/local/airflow/test
+            - ./plugins:/usr/local/airflow/plugins
+            # Uncomment to include custom plugins
+            - ./requirements.txt:/requirements.txt
+            - ./airflow/workspace:/usr/local/airflow/workspace
+        ports:
+            - "8080:8080"
+        command: webserver
+        healthcheck:
+            test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+            interval: 30s
+            timeout: 30s
+            retries: 3

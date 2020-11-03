@@ -1,0 +1,125 @@
+United States COVID-19 Cases and Deaths by State over Time
+https://data.cdc.gov/api/views/9mfq-cb36/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts by Week Ending Date and State
+https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD
+
+Provider Relief Fund COVID-19 High-Impact Payments
+https://data.cdc.gov/api/views/b58h-s9zx/rows.csv?accessType=DOWNLOAD
+
+Provisional Death Counts for Influenza, Pneumonia, and COVID-19
+https://data.cdc.gov/api/views/ynw2-4viq/rows.csv?accessType=DOWNLOAD
+
+Provisional Death Counts for Coronavirus Disease (COVID-19): Distribution of Deaths by Race and Hispanic Origin
+https://data.cdc.gov/api/views/pj7m-y5uh/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts in the United States by County
+https://data.cdc.gov/api/views/kn79-hsxy/rows.csv?accessType=DOWNLOAD
+
+Excess Deaths Associated with COVID-19
+https://data.cdc.gov/api/views/xkkf-xrst/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts by Sex, Age, and State
+https://data.cdc.gov/api/views/9bhg-hcku/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts by Place of Death and State
+https://data.cdc.gov/api/views/uggs-hy5q/rows.csv?accessType=DOWNLOAD
+
+Conditions contributing to deaths involving coronavirus disease 2019 (COVID-19), by age group and state, United States.
+https://data.cdc.gov/api/views/hk9y-quqm/rows.csv?accessType=DOWNLOAD
+
+Deaths involving coronavirus disease 2019 (COVID-19) by race and Hispanic origin group and age, by state
+https://data.cdc.gov/api/views/ks3g-spdg/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts by Sex, Age, and Week
+https://data.cdc.gov/api/views/vsak-wrfu/rows.csv?accessType=DOWNLOAD
+
+Claims Reimbursement to Health Care Providers and Facilities for Testing and Treatment of the Uninsured
+https://data.cdc.gov/api/views/rksx-33p3/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Death Counts by County and Race
+https://data.cdc.gov/api/views/k8wy-p9cg/rows.csv?accessType=DOWNLOAD
+
+Weekly counts of deaths by jurisdiction and race and Hispanic origin
+https://data.cdc.gov/api/views/qfhf-uhaa/rows.csv?accessType=DOWNLOAD
+
+Distribution of COVID-19 deaths and populations, by jurisdiction, age, and race and Hispanic origin
+https://data.cdc.gov/api/views/jwta-jxbg/rows.csv?accessType=DOWNLOAD
+
+Monthly provisional counts of deaths by age group and HHS region for select causes of death
+https://data.cdc.gov/api/views/ezfr-g6hf/rows.csv?accessType=DOWNLOAD
+
+Nationwide Commercial Laboratory Seroprevalence Survey
+https://data.cdc.gov/api/views/d2tw-32xv/rows.csv?accessType=DOWNLOAD
+
+Provisional COVID-19 Deaths Counts by Age in Years
+https://data.cdc.gov/api/views/3apk-4u4f/rows.csv?accessType=DOWNLOAD
+
+Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days
+https://data.cdc.gov/api/views/8pt5-q6wp/rows.csv?accessType=DOWNLOAD
+
+Indicators of Health Insurance Coverage at the Time of Interview
+https://data.cdc.gov/api/views/jb9g-gnvr/rows.csv?accessType=DOWNLOAD
+
+Indicators of Reduced Access to Care Due to the Coronavirus Pandemic During Last 4 Weeks
+https://data.cdc.gov/api/views/xb3p-q62w/rows.csv?accessType=DOWNLOAD
+
+U.S. State and Territorial Stay-At-Home Orders: March 15 – July 7 by County by Day
+https://data.cdc.gov/api/views/y2iy-8irm/rows.csv?accessType=DOWNLOAD
+
+Mental Health Care in the Last 4 Weeks
+https://data.cdc.gov/api/views/yni7-er2q/rows.csv?accessType=DOWNLOAD
+
+AH Provisional Diabetes Death Counts, 2020
+https://data.cdc.gov/api/views/qdcb-uzft/rows.csv?accessType=DOWNLOAD
+
+U.S. State, Territorial, and County Stay-At-Home Orders: March 15-May 5 (County) and July 7 (State) by County by Day
+https://data.cdc.gov/api/views/qz3x-mf9n/rows.csv?accessType=DOWNLOAD
+
+Monthly provisional counts of deaths by age group, sex, and race/ethnicity for select causes of death
+https://data.cdc.gov/api/views/65mz-jvh5/rows.csv?accessType=DOWNLOAD
+
+Monthly counts of COVID-19 deaths, by region, age, place, and race and Hispanic origin
+https://data.cdc.gov/api/views/w4jm-mysj/rows.csv?accessType=DOWNLOAD
+
+Telemedicine - RANDS during COVID-19
+https://data.cdc.gov/api/views/8xy9-ubqz/rows.csv?accessType=DOWNLOAD
+
+Loss of Work Due to Illness - RANDS during COVID-19
+https://data.cdc.gov/api/views/qgkx-mswu/rows.csv?accessType=DOWNLOAD
+
+Reduced Access to Care - RANDS during COVID-19
+https://data.cdc.gov/api/views/th9n-ghnr/rows.csv?accessType=DOWNLOAD
+
+COVID-19 Case Surveillance Public Use Data
+https://data.cdc.gov/api/views/vbim-akqf/rows.csv?accessType=DOWNLOAD
+
+AH Sickle Cell Disease Provisional Death Counts 2019-2020
+https://data.cdc.gov/api/views/3sh4-uqpm/rows.csv?accessType=DOWNLOAD
+
+AH County-level Provisional COVID-19 Deaths Counts
+https://data.cdc.gov/api/views/6vqh-esgs/rows.csv?accessType=DOWNLOAD
+
+Monthly counts of COVID-19 deaths, by region, age, and race and Hispanic origin
+https://data.cdc.gov/api/views/aie4-agrk/rows.csv?accessType=DOWNLOAD
+
+Provider Relief Fund & Accelerated and Advance Payments
+https://data.cdc.gov/api/views/v2pi-w3up/rows.csv?accessType=DOWNLOAD
+
+Cumulative Provisional Death Counts by Sex, Race, and Age through 7/4/2020
+https://data.cdc.gov/api/views/sf7h-sajc/rows.csv?accessType=DOWNLOAD
+
+Cumulative Provisional Counts of Deaths by Sex, Race, and Age
+https://data.cdc.gov/api/views/mwk9-wnfr/rows.csv?accessType=DOWNLOAD
+
+COVID-19 Diagnostic Laboratory Testing (PCR Testing) Time Series
+https://healthdata.gov/sites/default/files/covid-19_diagnostic_lab_testing_20201031_2227.csv
+
+COVID-19 Reported Patient Impact and Hospital Capacity by State
+https://healthdata.gov/sites/default/files/reported_hospital_utilization_20201101_2240.csv
+
+COVID-19 State and County Policy Orders
+https://healthdata.gov/sites/default/files/state_policy_updates_20201101_1346.csv
+
+Provisional Death Counts for Coronavirus Disease (COVID-19)
+https://data.cdc.gov/api/views/hc4f-j6nb/rows.csv?accessType=DOWNLOAD
